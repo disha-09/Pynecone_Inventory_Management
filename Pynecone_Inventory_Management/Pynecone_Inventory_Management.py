@@ -58,7 +58,7 @@ class State(pc.State):
 def header():
     """Basic instructions to get started."""
     return pc.box(
-        pc.text("Welcome to Parshwa Jewellers", font_size="2rem"),
+        pc.text("Welcome to Pynecone Inventory System", font_size="2rem"),
         # pc.text(
         #     "Inventory Management System!",
         #     margin_top="0.5rem",
